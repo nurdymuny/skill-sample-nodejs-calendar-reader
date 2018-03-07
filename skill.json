@@ -1,11 +1,11 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open staford calendar",
+            "Alexa open stanford calendar",
             "Alexa ask stanford calendar whats happening today",
             "Alexa tell stanford calendar get me events for tomorrow"
           ],

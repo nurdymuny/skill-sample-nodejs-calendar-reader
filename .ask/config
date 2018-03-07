@@ -1,14 +1,14 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "",
+      "skill_id": "amzn1.ask.skill.5894b11b-8113-4db7-ad0a-eccd900f3601",
       "was_cloned": false,
       "merge": {
-        "skillManifest": {
+        "manifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-calendar-default"
+                "uri": "arn:aws:lambda:us-east-1:796508390614:function:lamba-test-for-alexa-skill"
               }
             }
           }

@@ -10,7 +10,7 @@ const states = {
 let alexa;
 
 //OPTIONAL: replace with "amzn1.ask.skill.[your-unique-value-here]";
-let APP_ID = undefined;
+let APP_ID = "amzn1.ask.skill.5894b11b-8113-4db7-ad0a-eccd900f3601";
 
 // URL to get the .ics from, in this instance we are getting from Stanford however this can be changed
 const URL = "http://events.stanford.edu/eventlist.ics";
